@@ -1,10 +1,16 @@
-Hello, My name is Brandon Smith. I am a Project Management & GRC Specialist:
+👋 Hi, I’m Brandon Smith
 
-- 🔭 I’m currently working on-Project Managment for AI tools and Chatbots, SOC 2 Analysis, GRC Review for Human Resources training materials.
-- 🌱 I’m currently learning-SEC + 701, CISM, AI Cybersecurity Frameworks 
-- 👯 I’m looking to collaborate on-GRC consultations for Small & Midsize businesses 
+🚀 Project Management | Cybersecurity | AI Systems Design
 
-End to end Project Managment:  
+I help businesses build AI-first systems that are secure, scalable, and smart.
+Focused on blending strategy, automation, and protection to deliver real results.
+
+🧠 Core Skills
+
+ 🛡️ Cybersecurity • 📊 Project Management • ⚙️ Tech Strategy
+
+
+💼 Recent Projects
 
 ### 🌐 Website & 🤖 AI Chatbot
 
