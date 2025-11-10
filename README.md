@@ -7,25 +7,14 @@ Focused on blending strategy, automation, and protection to deliver real results
 
 🧠 Core Skills
 
- 🛡️ Cybersecurity • 📊 Project Management • ⚙️ Tech Strategy
+ 🛡️ Cybersecurity • 📊 Project Management • ⚙️ AI Tech Strategy
 
+## 💼 Recent Projects
 
-💼 Recent Projects
-
-### 🌐 Website & 🤖 AI Chatbot
-
-* [Crescent Hotel](https://crescent-hotel.com/) 🏨✨
-* [Balams Law](https://www.balamslaw.com/) ⚖️💬
-
+* 🏨 [Crescent Hotel](https://crescent-hotel.com/) 
+* ⚖️ [Balams Law](https://www.balamslaw.com/) 
+* 🚜 [Hugg & Hall](https://www.hugghall.com/)  
+* 🎨 [CertaPro Painters](https://certapro.com/) 
+* 🚘 [Mercedes-Benz of Novi](https://www.mercedesbenzofnovi.com/) 
+* 🚗 [GM Energy](https://gmenergy.gm.com/) 
 ---
-
-### 📈 Digital Marketing
-
-* [GM Energy](https://gmenergy.gm.com/) ⚡🚗💡
-
----
-
-
-
-
-
