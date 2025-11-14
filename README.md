@@ -1,13 +1,13 @@
 👋 Hi, I’m Brandon Smith
 
-🚀 Project Management | Cybersecurity | AI Systems Design
+🚀 Project Management | GRC Cybersecurity | Tech Solutions
 
 I help businesses build AI-first systems that are secure, scalable, and smart.
 Focused on blending strategy, automation, and protection to deliver real results.
 
 🧠 Core Skills
 
- 🛡️ Cybersecurity • 📊 Project Management • ⚙️ AI Tech Strategy
+ 🛡️ Cybersecurity • 📊 Project Management • ⚙️ Tech Strategy
 
 ## 💼 Recent Projects
 
