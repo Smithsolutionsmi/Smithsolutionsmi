@@ -2,8 +2,8 @@
 
 🚀 Project Management | GRC Cybersecurity | Tech Solutions
 
-I help businesses build AI-first systems that are secure, scalable, and smart.
-Focused on blending strategy, automation, and protection to deliver real results.
+I help businesses build tech systems that are secure, scalable, and smart.
+Focused on blending strategy and protection to deliver real results.
 
 🧠 Core Skills
 
